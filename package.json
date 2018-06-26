@@ -1,0 +1,21 @@
+{
+	"name": "css-absolute-length",
+	"version": "1.0.0",
+	"author": {
+		"name": "Axel Dahmen",
+		"url": "http://www.axeldahmen.de/"
+	},
+	"description": "The HTML page of this package gives information about whether a web browser correctly reads OS device information and applies it to CSS3 media queries.",
+	"keywords": [
+		"CSS",
+		"CSS3",
+		"media query",
+		"media queries",
+		"absolute length"
+	],
+	"homepage": "https://www.github.com/settrend/css-absolute-length/mediaQueries.html",
+	"repository": {
+		"type": "git",
+		"url": "settrend/css-absolute-length"
+	}
+}

@@ -1,0 +1,130 @@
+html
+{
+	height: 100%;
+}
+
+body
+{
+	background-color: #eee;
+	font:  bold 20pt sans-serif;
+	height: 100%;
+}
+
+body > div
+{
+	position: relative;
+	top: 50%;
+	text-align: center;
+	border: 1px solid silver;
+	background: linear-gradient(90deg, #eaeaea, #f0f0f0);
+}
+
+
+@media screen and (min-width: 01cm) { body > div > span::before { content: "01"; } }
+@media screen and (min-width: 02cm) { body > div > span::before { content: "02"; } }
+@media screen and (min-width: 03cm) { body > div > span::before { content: "03"; } }
+@media screen and (min-width: 04cm) { body > div > span::before { content: "04"; } }
+@media screen and (min-width: 05cm) { body > div > span::before { content: "05"; } }
+@media screen and (min-width: 06cm) { body > div > span::before { content: "06"; } }
+@media screen and (min-width: 07cm) { body > div > span::before { content: "07"; } }
+@media screen and (min-width: 08cm) { body > div > span::before { content: "08"; } }
+@media screen and (min-width: 09cm) { body > div > span::before { content: "09"; } }
+
+@media screen and (min-width: 10cm) { body > div > span::before { content: "10"; } }
+@media screen and (min-width: 11cm) { body > div > span::before { content: "11"; } }
+@media screen and (min-width: 12cm) { body > div > span::before { content: "12"; } }
+@media screen and (min-width: 13cm) { body > div > span::before { content: "13"; } }
+@media screen and (min-width: 14cm) { body > div > span::before { content: "14"; } }
+@media screen and (min-width: 15cm) { body > div > span::before { content: "15"; } }
+@media screen and (min-width: 16cm) { body > div > span::before { content: "16"; } }
+@media screen and (min-width: 17cm) { body > div > span::before { content: "17"; } }
+@media screen and (min-width: 18cm) { body > div > span::before { content: "18"; } }
+@media screen and (min-width: 19cm) { body > div > span::before { content: "19"; } }
+
+@media screen and (min-width: 20cm) { body > div > span::before { content: "20"; } }
+@media screen and (min-width: 21cm) { body > div > span::before { content: "21"; } }
+@media screen and (min-width: 22cm) { body > div > span::before { content: "22"; } }
+@media screen and (min-width: 23cm) { body > div > span::before { content: "23"; } }
+@media screen and (min-width: 24cm) { body > div > span::before { content: "24"; } }
+@media screen and (min-width: 25cm) { body > div > span::before { content: "25"; } }
+@media screen and (min-width: 26cm) { body > div > span::before { content: "26"; } }
+@media screen and (min-width: 27cm) { body > div > span::before { content: "27"; } }
+@media screen and (min-width: 28cm) { body > div > span::before { content: "28"; } }
+@media screen and (min-width: 29cm) { body > div > span::before { content: "29"; } }
+
+@media screen and (min-width: 30cm) { body > div > span::before { content: "30"; } }
+@media screen and (min-width: 31cm) { body > div > span::before { content: "31"; } }
+@media screen and (min-width: 32cm) { body > div > span::before { content: "32"; } }
+@media screen and (min-width: 33cm) { body > div > span::before { content: "33"; } }
+@media screen and (min-width: 34cm) { body > div > span::before { content: "34"; } }
+@media screen and (min-width: 35cm) { body > div > span::before { content: "35"; } }
+@media screen and (min-width: 36cm) { body > div > span::before { content: "36"; } }
+@media screen and (min-width: 37cm) { body > div > span::before { content: "37"; } }
+@media screen and (min-width: 38cm) { body > div > span::before { content: "38"; } }
+@media screen and (min-width: 39cm) { body > div > span::before { content: "39"; } }
+
+@media screen and (min-width: 40cm) { body > div > span::before { content: "40"; } }
+@media screen and (min-width: 41cm) { body > div > span::before { content: "41"; } }
+@media screen and (min-width: 42cm) { body > div > span::before { content: "42"; } }
+@media screen and (min-width: 43cm) { body > div > span::before { content: "43"; } }
+@media screen and (min-width: 44cm) { body > div > span::before { content: "44"; } }
+@media screen and (min-width: 45cm) { body > div > span::before { content: "45"; } }
+@media screen and (min-width: 46cm) { body > div > span::before { content: "46"; } }
+@media screen and (min-width: 47cm) { body > div > span::before { content: "47"; } }
+@media screen and (min-width: 48cm) { body > div > span::before { content: "48"; } }
+@media screen and (min-width: 49cm) { body > div > span::before { content: "49"; } }
+
+@media screen and (min-width: 50cm) { body > div > span::before { content: "50"; } }
+@media screen and (min-width: 51cm) { body > div > span::before { content: "51"; } }
+@media screen and (min-width: 52cm) { body > div > span::before { content: "52"; } }
+@media screen and (min-width: 53cm) { body > div > span::before { content: "53"; } }
+@media screen and (min-width: 54cm) { body > div > span::before { content: "54"; } }
+@media screen and (min-width: 55cm) { body > div > span::before { content: "55"; } }
+@media screen and (min-width: 56cm) { body > div > span::before { content: "56"; } }
+@media screen and (min-width: 57cm) { body > div > span::before { content: "57"; } }
+@media screen and (min-width: 58cm) { body > div > span::before { content: "58"; } }
+@media screen and (min-width: 59cm) { body > div > span::before { content: "59"; } }
+
+@media screen and (min-width: 60cm) { body > div > span::before { content: "60"; } }
+@media screen and (min-width: 61cm) { body > div > span::before { content: "61"; } }
+@media screen and (min-width: 62cm) { body > div > span::before { content: "62"; } }
+@media screen and (min-width: 63cm) { body > div > span::before { content: "63"; } }
+@media screen and (min-width: 64cm) { body > div > span::before { content: "64"; } }
+@media screen and (min-width: 65cm) { body > div > span::before { content: "65"; } }
+@media screen and (min-width: 66cm) { body > div > span::before { content: "66"; } }
+@media screen and (min-width: 67cm) { body > div > span::before { content: "67"; } }
+@media screen and (min-width: 68cm) { body > div > span::before { content: "68"; } }
+@media screen and (min-width: 69cm) { body > div > span::before { content: "69"; } }
+
+@media screen and (min-width: 70cm) { body > div > span::before { content: "70"; } }
+@media screen and (min-width: 71cm) { body > div > span::before { content: "71"; } }
+@media screen and (min-width: 72cm) { body > div > span::before { content: "72"; } }
+@media screen and (min-width: 73cm) { body > div > span::before { content: "73"; } }
+@media screen and (min-width: 74cm) { body > div > span::before { content: "74"; } }
+@media screen and (min-width: 75cm) { body > div > span::before { content: "75"; } }
+@media screen and (min-width: 76cm) { body > div > span::before { content: "76"; } }
+@media screen and (min-width: 77cm) { body > div > span::before { content: "77"; } }
+@media screen and (min-width: 78cm) { body > div > span::before { content: "78"; } }
+@media screen and (min-width: 79cm) { body > div > span::before { content: "79"; } }
+
+@media screen and (min-width: 80cm) { body > div > span::before { content: "80"; } }
+@media screen and (min-width: 81cm) { body > div > span::before { content: "81"; } }
+@media screen and (min-width: 82cm) { body > div > span::before { content: "82"; } }
+@media screen and (min-width: 83cm) { body > div > span::before { content: "83"; } }
+@media screen and (min-width: 84cm) { body > div > span::before { content: "84"; } }
+@media screen and (min-width: 85cm) { body > div > span::before { content: "85"; } }
+@media screen and (min-width: 86cm) { body > div > span::before { content: "86"; } }
+@media screen and (min-width: 87cm) { body > div > span::before { content: "87"; } }
+@media screen and (min-width: 88cm) { body > div > span::before { content: "88"; } }
+@media screen and (min-width: 89cm) { body > div > span::before { content: "89"; } }
+
+@media screen and (min-width: 90cm) { body > div > span::before { content: "90"; } }
+@media screen and (min-width: 91cm) { body > div > span::before { content: "91"; } }
+@media screen and (min-width: 92cm) { body > div > span::before { content: "92"; } }
+@media screen and (min-width: 93cm) { body > div > span::before { content: "93"; } }
+@media screen and (min-width: 94cm) { body > div > span::before { content: "94"; } }
+@media screen and (min-width: 95cm) { body > div > span::before { content: "95"; } }
+@media screen and (min-width: 96cm) { body > div > span::before { content: "96"; } }
+@media screen and (min-width: 97cm) { body > div > span::before { content: "97"; } }
+@media screen and (min-width: 98cm) { body > div > span::before { content: "98"; } }
+@media screen and (min-width: 99cm) { body > div > span::before { content: "99"; } }
