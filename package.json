@@ -5,7 +5,7 @@
 		"name": "Axel Dahmen",
 		"url": "http://www.axeldahmen.de/"
 	},
-	"description": "The HTML page of this package gives information about whether a web browser correctly reads OS device information and applies it to CSS3 media queries.",
+	"description": "This package gives information about whether a web browser reads OS device information and applies it to CSS3 media queries using absolute lengths.",
 	"keywords": [
 		"CSS",
 		"CSS3",

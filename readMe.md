@@ -1,5 +1,11 @@
 # CSS3 Absolute Length Media Query Probing Page
-The HTML page of this package gives information about whether a web browser correctly reads OS device information and applies it to CSS3 media queries.
+This package gives information about whether a web browser reads OS device information and applies it to CSS3 media queries using absolute lengths.
+
+It outputs the width of the viewport according the media queries like:
+
+```css
+@media screen and (min-width: ...cm)
+```
 
 ### Reason
 
