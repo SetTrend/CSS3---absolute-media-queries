@@ -21,15 +21,15 @@ body > div
 }
 
 
-@media screen and (min-width: 01cm) { body > div > span::before { content: "01"; } }
-@media screen and (min-width: 02cm) { body > div > span::before { content: "02"; } }
-@media screen and (min-width: 03cm) { body > div > span::before { content: "03"; } }
-@media screen and (min-width: 04cm) { body > div > span::before { content: "04"; } }
-@media screen and (min-width: 05cm) { body > div > span::before { content: "05"; } }
-@media screen and (min-width: 06cm) { body > div > span::before { content: "06"; } }
-@media screen and (min-width: 07cm) { body > div > span::before { content: "07"; } }
-@media screen and (min-width: 08cm) { body > div > span::before { content: "08"; } }
-@media screen and (min-width: 09cm) { body > div > span::before { content: "09"; } }
+@media screen and (min-width: 01cm) { body > div > span::before { content: "1"; } }
+@media screen and (min-width: 02cm) { body > div > span::before { content: "2"; } }
+@media screen and (min-width: 03cm) { body > div > span::before { content: "3"; } }
+@media screen and (min-width: 04cm) { body > div > span::before { content: "4"; } }
+@media screen and (min-width: 05cm) { body > div > span::before { content: "5"; } }
+@media screen and (min-width: 06cm) { body > div > span::before { content: "6"; } }
+@media screen and (min-width: 07cm) { body > div > span::before { content: "7"; } }
+@media screen and (min-width: 08cm) { body > div > span::before { content: "8"; } }
+@media screen and (min-width: 09cm) { body > div > span::before { content: "9"; } }
 
 @media screen and (min-width: 10cm) { body > div > span::before { content: "10"; } }
 @media screen and (min-width: 11cm) { body > div > span::before { content: "11"; } }
