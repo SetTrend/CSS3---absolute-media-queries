@@ -27,5 +27,7 @@ The HTML page will then display your web browser window's width in cm:
 
 ![Sample Image](sampleImage.png)
 
+Alternatively you may find the web page here online: http://www.axeldahmen.de/CssMQTest/mediaQueries.html
+
 HTH,<br/>
 [Axel Dahmen](http://www.axeldahmen.de/)
