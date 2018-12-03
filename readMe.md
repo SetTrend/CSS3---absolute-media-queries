@@ -11,13 +11,13 @@ The web page outputs the width of the viewport according the media queries like:
 
 ### Reason
 
-Currently, many CSS design frameworks, like [Bootstrap](https://getbootstrap.com/) for instance, use pixels for their media queries. Yet, using pixels as a basis for deciding which layout to use is not robust or safe:
+Currently, many CSS design frameworks, like [Bootstrap](https://getbootstrap.com/) for instance, are using pixels for their media queries. Yet, that approach is not robust and safe for deciding which layout to use: A user may use a large screen with `HDTV` resolution or a smartphone with `UHD` resolution.
 
-A user may use a large screen with `HDTV` resolution or a smartphone with `UHD` resolution. So, if web designers design their media queries on pixel basis, users of large screens may be presented with a smartphone layout while users of smartphones may be presented with a desktop layout.
+So, if web designers design their media queries on pixel basis, users of large screens may be presented with smartphone layout while users of smartphones may be presented with desktop layout.
 
 ### Conclusion
 
-A way better solution for deciding which layout to use for which kind of device is to decide based on a browser's viewport width in absolute length, e. g. `cm`.
+A better solution for deciding which layout to use at which kind of device is to decide based on a browser's viewport width in absolute length, e. g. `cm`.
 
 So, I suggest to refrain from using device pixels (`px`) in your CSS media queries and, instead, utilize absolute lengths, like `cm`.
 
@@ -25,7 +25,7 @@ So, I suggest to refrain from using device pixels (`px`) in your CSS media queri
 
 ### How to Use
 
-Simply pull this repository and open the downloaded `mediaQueries.html` file.
+To test whether CSS media queries using absolute lengths will successfully be displayed on your web browser, simply pull this repository and open the `mediaQueries.html` file downloaded from the repository.
 
 The HTML page will then display your web browser window's width in cm:
 
