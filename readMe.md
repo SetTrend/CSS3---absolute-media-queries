@@ -1,7 +1,9 @@
 # CSS3 Absolute Length Media Query Probing Page
-This package gives information about whether a web browser reads OS device information and applies it to CSS3 media queries using absolute lengths.
+This repository provides a `HTML` web page, showing the current web page's width in `cm`.
 
-It outputs the width of the viewport according the media queries like:
+You can use this web page to test whether a web browser reads OS device information and correctly applies it to CSS3 media queries using absolute lengths.
+
+The web page outputs the width of the viewport according the media queries like:
 
 ```css
 @media screen and (min-width: ...cm)
@@ -15,19 +17,21 @@ A user may use a large screen with `HDTV` resolution or a smartphone with `UHD` 
 
 ### Conclusion
 
-A way better solution for deciding on which layout to use for which device is to decide based on a browser viewport's width in absolute length, e. g. `cm`.
+A way better solution for deciding which layout to use for which kind of device is to decide based on a browser's viewport width in absolute length, e. g. `cm`.
+
+So, I suggest to refrain from using device pixels (`px`) in your CSS media queries and, instead, utilize absolute lengths, like `cm`.
 
 [See here](https://www.w3.org/TR/css-values-3/#absolute-lengths) for the official list of currently valid absolute lengths.
 
 ### How to Use
 
-Download the project and open the `mediaQueries.html` file.
+Simply pull this repository and open the downloaded `mediaQueries.html` file.
 
 The HTML page will then display your web browser window's width in cm:
 
 ![Sample Image](sampleImage.png)
 
-Alternatively you may find the web page here online: http://www.axeldahmen.de/CssMQTest/mediaQueries.html
+Alternatively you may find the web page online here: http://www.axeldahmen.de/CssMQTest/mediaQueries.html
 
 HTH,<br/>
 [Axel Dahmen](http://www.axeldahmen.de/)
