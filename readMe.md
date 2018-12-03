@@ -1,7 +1,7 @@
 # CSS3 Absolute Length Media Query Probing Page
 This repository provides a `HTML` web page, showing the current web page's width in `cm`.
 
-You can use this web page to test whether a web browser reads OS device information and correctly applies it to CSS3 media queries using absolute lengths.
+You can use this web page to test whether a web browser reads OS device information and is able to correctly apply that information to CSS3 media queries using absolute lengths.
 
 The web page outputs the width of the viewport according the media queries like:
 
